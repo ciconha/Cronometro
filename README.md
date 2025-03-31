@@ -42,5 +42,5 @@ Esse projeto foi desenvolvido para melhorar a eficiência nos seus estudos com u
 
 ---
 
-[link do repositório] [https://gerador-senha-puce-five.vercel.app/]
+[link do repositório] [https://cronometro-inky-rho.vercel.app/]
 
